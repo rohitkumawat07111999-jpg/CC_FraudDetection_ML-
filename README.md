@@ -1,5 +1,3 @@
-# CC_FraudDetection_ML-
-
 # Credit Card Fraud Detection using Machine Learning
 
 ## Overview
